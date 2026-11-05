@@ -1,0 +1,60 @@
+# ==============================
+# Environment Variables & Secrets
+# ==============================
+.env
+.env.*
+.env.example
+.env.sample
+
+# Local/private configuration
+secrets/
+private/
+*.secret
+*.secrets
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+*.jks
+
+# Credentials and service account files
+credentials.json
+service-account*.json
+google-services-private.json
+
+# ==============================
+# Android / Gradle
+# ==============================
+.gradle/
+**/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# APK and Android App Bundle outputs
+*.apk
+*.aab
+
+# ==============================
+# IDE
+# ==============================
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# ==============================
+# Logs and temporary files
+# ==============================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ==============================
+# Signing configurations
+# ==============================
+keystore.properties
+signing.properties
