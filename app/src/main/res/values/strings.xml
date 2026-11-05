@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MWSGuy</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_back">Back</string>
+    <string name="nav_forward">Forward</string>
+    <string name="nav_refresh">Refresh</string>
+    <string name="nav_desktop_mode">Desktop View</string>
+    <string name="nav_mobile_mode">Mobile View</string>
+    <string name="nav_fullscreen">Fullscreen</string>
+    <string name="nav_exit_fullscreen">Exit Fullscreen</string>
+    <string name="ad_shield_active">Ad Shield: Blocking intrusive ads and popups</string>
+    <string name="error_connection_title">Unable to Connect</string>
+    <string name="error_connection_desc">Please check your internet connection and try again.</string>
+    <string name="btn_retry">Try Again</string>
+    <string name="btn_home">Go to Home</string>
+    <string name="tv_controls_label">TV Controls</string>
+</resources>
